@@ -186,8 +186,7 @@ Or stop it explicitly via Gradle:
 
 ### 👨‍💻 Developer
 
-**Harshit Jivani**  
-_Bachelor of Technology in Information Technology_  
+**Harshit Jivani**    
 **Organization:** Axelor Technologies India Pvt. Ltd.
 
 
