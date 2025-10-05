@@ -84,8 +84,8 @@ Each module operates independently but integrates seamlessly with others through
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/Axelor-Internship.git
-cd Axelor-Internship/module
+https://github.com/harshitjivani/Modular_ERP_System.git
+cd Modular_ERP_System/module
 
 # Build the project using Gradle Wrapper (no manual Gradle installation required)
 ./gradlew clean build
@@ -190,5 +190,4 @@ Or stop it explicitly via Gradle:
 _Bachelor of Technology in Information Technology_  
 **Organization:** Axelor Technologies India Pvt. Ltd.
 
----
 
